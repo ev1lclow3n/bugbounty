@@ -1,0 +1,769 @@
+1xdfu.okx.com
+3e8okx.com
+abreuelima.okx.com
+acdywaycloudwp.okx.com
+admyjiwfwp.okx.com
+ads1.okx.com
+ananindeua.okx.com
+antispam.okx.com
+auth.okx.com
+authsmtp.okx.com
+avellaneda.okx.com
+aws.okx.com
+awspush.okx.com
+barracuda.okx.com
+belgrano.okx.com
+bid4699.22598096m.okx.com
+bid46kv.5507270m.okx.com
+bid483j.5507270m.okx.com
+bid484j.5507270m.okx.com
+chainrpc.okx.com
+clientDeleteProhibited.okx.com
+clientTransferProhibited.okx.com
+clientUpdateProhibited.okx.com
+comune.okx.com
+correo.okx.com
+dns.okx.com
+dy.okx.com
+email.gh-mail.okx.com
+email.okx.com
+exchange.okx.com
+ftp.okx.com
+gate.okx.com
+go.okx.com
+gw.okx.com
+hermes.okx.com
+home.okx.com
+hostmaster.okx.com
+iketaniblack.okx.com
+imap2.okx.com
+imap.okx.com
+jk.okx.com
+launchcount.okx.com
+learn.okx.com
+l.okx.com
+mail01.okx.com
+mail10.okx.com
+mail12.okx.com
+mail2.okx.com
+mail3.okx.com
+mail4.okx.com
+mail5.okx.com
+mail7.okx.com
+mail8.okx.com
+mail9.okx.com
+mailbox.okx.com
+mailer.okx.com
+mailgate.okx.com
+mailgw.okx.com
+mailhost.okx.com
+mailin.okx.com
+mail.okx.com
+mails.okx.com
+mailx.okx.com
+mbox.okx.com
+microsoft.okx.com
+m.okx.com
+mta.okx.com
+mx01.okx.com
+mx02.okx.com
+mx10.okx.com
+mx1.okx.com
+mx2.okx.com
+mx3.okx.com
+mx4.okx.com
+mx5.okx.com
+mx7.okx.com
+mx.okx.com
+mxs.okx.com
+newmail.okx.com
+newsletter.okx.com
+ns1.okx.com
+ns2.okx.com
+ns.okx.com
+okbrpc.okx.com
+okbtestrpc.okx.com
+okbtesttmrpc.okx.com
+okbtestws.okx.com
+okbtmrpc.okx.com
+okbws.okx.com
+okctools.okx.com
+ok.okx.com
+oktcsafe.okx.com
+okx.com
+outmail.okx.com
+pbrand.okx.com
+poczta.okx.com
+pop3.okx.com
+pop.okx.com
+posta.okx.com
+postmaster.okx.com
+post.okx.com
+real.okx.com
+realpapsrcstarxlx.okx.com
+realsrcstarxlx.okx.com
+relay2.okx.com
+relay.okx.com
+remote.okx.com
+root.okx.com
+secureimap.okx.com
+securemail.okx.com
+secure.okx.com
+server1.okx.com
+server2.okx.com
+server.okx.com
+skevvey.okx.com
+smtp1.okx.com
+smtp2.okx.com
+smtp3.okx.com
+smtp.okx.com
+smtps.okx.com
+sniper.okx.com
+spam.okx.com
+srv.okx.com
+staticaws.okx.com
+static.okx.com
+supdljgzdhc.okx.com
+support.okx.com
+test.okx.com
+track.msadcenter.okx.com
+tr.okx.com
+tvpap.okx.com
+vmail.okx.com
+vps.okx.com
+wallet.okx.com
+webmail.okx.com
+wpacademy.okx.com
+wpacademy-test.okx.com
+wsaws.okx.com
+wsdex.okx.com
+wsdexpap.okx.com
+wsdexpre.okx.com
+wsdexpri.okx.com
+ws.okx.com
+wspap.okx.com
+wspapsrcstarxlx.okx.com
+wspre.okx.com
+wspriokakamai.okx.com
+wspriokakamaipap.okx.com
+wspri.okx.com
+wspripap.okx.com
+wsprisrcstarxlx.okx.com
+wssfp.okx.com
+wssfppap.okx.com
+wsweb.okx.com
+wswebpap.okx.com
+www1.okx.com
+wwwokakamai.okx.com
+www--okx.com
+www.okx.com
+www.OKX.com
+wwwsrcstarx.okx.com
+www.static.okx.com
+www.www--okx.com
+xgontestrpc.okx.com
+xgontestws.okx.com
+zmail.okx.com
+
+
+
+
+
+
+
+
+
+
+
+
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
+
+
+
+
+Nmap scan report for aws.okx.com (16.163.73.203)
+Host is up (0.13s latency).
+Other addresses for aws.okx.com (not scanned): 43.199.10.248 43.199.18.168 16.162.64.62 43.198.238.2 16.162.158.245
+rDNS record for 16.163.73.203: ec2-16-163-73-203.ap-east-1.compute.amazonaws.com
+Not shown: 65532 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+8443/tcp closed https-alt
+
+Nmap scan report for awspush.okx.com (43.198.117.217)
+Host is up (0.10s latency).
+Other addresses for awspush.okx.com (not scanned): 16.163.115.183 43.199.4.118 16.163.73.61 18.167.195.22 18.163.86.195 16.162.125.97 18.166.82.83
+rDNS record for 43.198.117.217: ec2-43-198-117-217.ap-east-1.compute.amazonaws.com
+Not shown: 65532 filtered ports
+PORT     STATE  SERVICE
+80/tcp   closed http
+443/tcp  open   https
+8443/tcp open   https-alt
+
+Nmap scan report for bid4699.22598096m.okx.com (158.247.21.143)
+Host is up (0.25s latency).
+Not shown: 65532 filtered ports
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+80/tcp  open   http
+443/tcp closed https
+
+Nmap scan report for bid46kv.5507270m.okx.com (158.247.17.253)
+Host is up (0.26s latency).
+Not shown: 65532 filtered ports
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+80/tcp  open   http
+443/tcp closed https
+
+Nmap scan report for bid483j.5507270m.okx.com (158.247.30.189)
+Host is up (0.25s latency).
+Not shown: 65532 filtered ports
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+80/tcp  open   http
+443/tcp closed https
+
+Nmap scan report for bid484j.5507270m.okx.com (158.247.30.225)
+Host is up (0.26s latency).
+Not shown: 65532 filtered ports
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+80/tcp  open   http
+443/tcp closed https
+
+Nmap scan report for chainrpc.okx.com (104.18.43.174)
+Host is up (0.038s latency).
+Other addresses for chainrpc.okx.com (not scanned): 172.64.144.82 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for email.gh-mail.okx.com (34.102.239.211)
+Host is up (0.053s latency).
+rDNS record for 34.102.239.211: 211.239.102.34.bc.googleusercontent.com
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for newsletter.okx.com (199.60.103.2)
+Host is up (0.0082s latency).
+Other addresses for newsletter.okx.com (not scanned): 199.60.103.254 2606:2c40::c73c:67fe 2606:2c40::c73c:6702
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for okbtestrpc.okx.com (104.18.43.174)
+Host is up (0.011s latency).
+Other addresses for okbtestrpc.okx.com (not scanned): 172.64.144.82 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for okbtesttmrpc.okx.com (104.18.43.174)
+Host is up (0.0094s latency).
+Other addresses for okbtesttmrpc.okx.com (not scanned): 172.64.144.82 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for okbtestws.okx.com (172.64.144.82)
+Host is up (0.013s latency).
+Other addresses for okbtestws.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for okbws.okx.com (172.64.144.82)
+Host is up (0.011s latency).
+Other addresses for okbws.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for okctools.okx.com (47.242.1.173)
+Host is up (0.11s latency).
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for oktcsafe.okx.com (47.242.1.173)
+Host is up (0.10s latency).
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for okx.com (16.163.73.203)
+Host is up (0.10s latency).
+Other addresses for okx.com (not scanned): 16.162.64.62 16.162.158.245 43.199.18.168 43.198.238.2 43.199.10.248
+rDNS record for 16.163.73.203: ec2-16-163-73-203.ap-east-1.compute.amazonaws.com
+Not shown: 65532 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+8443/tcp closed https-alt
+
+Nmap scan report for staticaws.okx.com (129.227.206.206)
+Host is up (0.0076s latency).
+Not shown: 65531 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+843/tcp  open  unknown
+1935/tcp open  rtmp
+
+Nmap scan report for static.okx.com (54.239.216.19)
+Host is up (0.0095s latency).
+Other addresses for static.okx.com (not scanned): 54.239.216.116 54.239.216.91 54.239.216.25 2600:9000:21fe:9c00:1e:9215:9ac0:93a1 2600:9000:21fe:1c00:1e:9215:9ac0:93a1 2600:9000:21fe:5e00:1e:9215:9ac0:93a1 2600:9000:21fe:ca00:1e:9215:9ac0:93a1 2600:9000:21fe:4e00:1e:9215:9ac0:93a1 2600:9000:21fe:800:1e:9215:9ac0:93a1 2600:9000:21fe:d800:1e:9215:9ac0:93a1 2600:9000:21fe:1e00:1e:9215:9ac0:93a1
+rDNS record for 54.239.216.19: server-54-239-216-19.bom52.r.cloudfront.net
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for tr.okx.com (172.64.144.82)
+Host is up (0.022s latency).
+Other addresses for tr.okx.com (not scanned): 104.18.43.174 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for tvpap.okx.com (47.242.161.22)
+Host is up (0.12s latency).
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for wallet.okx.com (13.227.138.88)
+Host is up (0.011s latency).
+Other addresses for wallet.okx.com (not scanned): 13.227.138.96 13.227.138.12 13.227.138.31 2600:9000:21f0:ea00:1:91db:35c0:93a1 2600:9000:21f0:ae00:1:91db:35c0:93a1 2600:9000:21f0:2000:1:91db:35c0:93a1 2600:9000:21f0:0:1:91db:35c0:93a1 2600:9000:21f0:5400:1:91db:35c0:93a1 2600:9000:21f0:e00:1:91db:35c0:93a1 2600:9000:21f0:1800:1:91db:35c0:93a1 2600:9000:21f0:be00:1:91db:35c0:93a1
+rDNS record for 13.227.138.88: server-13-227-138-88.bom50.r.cloudfront.net
+Not shown: 65533 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for wsaws.okx.com (18.166.82.83)
+Host is up (0.10s latency).
+Other addresses for wsaws.okx.com (not scanned): 43.198.159.114 18.163.86.195 16.162.125.97 16.163.115.183 43.198.129.63 18.163.213.115 43.198.178.132
+rDNS record for 18.166.82.83: ec2-18-166-82-83.ap-east-1.compute.amazonaws.com
+Not shown: 65532 filtered ports
+PORT     STATE  SERVICE
+80/tcp   closed http
+443/tcp  open   https
+8443/tcp open   https-alt
+
+Nmap scan report for wsdex.okx.com (104.18.43.174)
+Host is up (0.015s latency).
+Other addresses for wsdex.okx.com (not scanned): 172.64.144.82 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wsdexpre.okx.com (172.64.144.82)
+Host is up (0.0069s latency).
+Other addresses for wsdexpre.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wsdexpri.okx.com (104.18.43.174)
+Host is up (0.014s latency).
+Other addresses for wsdexpri.okx.com (not scanned): 172.64.144.82 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for ws.okx.com (172.64.144.82)
+Host is up (0.0063s latency).
+Other addresses for ws.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wspap.okx.com (104.18.43.174)
+Host is up (0.0066s latency).
+Other addresses for wspap.okx.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wspri.okx.com (172.64.144.82)
+Host is up (0.0071s latency).
+Other addresses for wspri.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wspripap.okx.com (104.18.43.174)
+Host is up (0.0095s latency).
+Other addresses for wspripap.okx.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wssfp.okx.com (104.18.43.174)
+Host is up (0.010s latency).
+Other addresses for wssfp.okx.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wssfppap.okx.com (172.64.144.82)
+Host is up (0.0070s latency).
+Other addresses for wssfppap.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wsweb.okx.com (172.64.144.82)
+Host is up (0.016s latency).
+Other addresses for wsweb.okx.com (not scanned): 104.18.43.174 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for wswebpap.okx.com (172.64.144.82)
+Host is up (0.0068s latency).
+Other addresses for wswebpap.okx.com (not scanned): 104.18.43.174 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for www--okx.com (172.67.161.127)
+Host is up (0.062s latency).
+Other addresses for www--okx.com (not scanned): 104.21.66.155 2606:4700:3032::6815:429b 2606:4700:3032::ac43:a17f
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for www.okx.com (104.18.43.174)
+Host is up (0.023s latency).
+Other addresses for www.okx.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for www.OKX.com (104.18.43.174)
+Host is up (0.0065s latency).
+Other addresses for www.OKX.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for www.www--okx.com (104.21.66.155)
+Host is up (0.13s latency).
+Other addresses for www.www--okx.com (not scanned): 172.67.161.127 2606:4700:3032::ac43:a17f 2606:4700:3032::6815:429b
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for xgontestrpc.okx.com (172.64.144.82)
+Host is up (0.011s latency).
+Other addresses for xgontestrpc.okx.com (not scanned): 104.18.43.174 2606:4700:4400::6812:2bae 2606:4700:4400::ac40:9052
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+
+Nmap scan report for xgontestws.okx.com (104.18.43.174)
+Host is up (0.0090s latency).
+Other addresses for xgontestws.okx.com (not scanned): 172.64.144.82 2606:4700:4400::ac40:9052 2606:4700:4400::6812:2bae
+Not shown: 65522 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2052/tcp open  clearvisn
+2053/tcp open  knetd
+2082/tcp open  infowave
+2083/tcp open  radsec
+2086/tcp open  gnunet
+2087/tcp open  eli
+2095/tcp open  nbx-ser
+2096/tcp open  nbx-dir
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+8880/tcp open  cddbp-alt
+

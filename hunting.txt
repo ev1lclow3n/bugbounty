@@ -1,0 +1,28 @@
+NTLM Authentication disclosing internal data:
+
+Burp extension NTLM Challenge solver.
+Need HTTP:1.1 ( if it's 2 then downgrade it from inspector in repeater.
+Fing directories to login like api or sitename.com/sitename/
+
+
+
+
+-----------------------------------------------------------
+
+shodan download --limit 100000 chip 'hostname:"chipsoft.nl"'
+
+shodan download --limit 100000 filenae 'ssl:"in browser connection is secure then click certificate is valid and finally copy the output of Organisation (O)"'
+
+----------------------------------------------------------------
+
+After SSRF find the Internal IP in collaborator and then use them like "?redirecturl=https://internalip.com:8081" for scanning internal ports. 
+
+
+
+--------------------------------------------------------------------------
+
+cat ipfile.txt| httpx --random-agent --status-code --title -server -td -cl -fc 400 <=-- (400 being excluded)
+
+ffuf -u 'https://sitename.com:port/FUZZ' -w /home/barikojas/ev1lclow3n/wordlist/ -v -mc 200 -fs 2  <-- fs for excluding 2 digits status code, we don't need it much. Make sure about the wordlist u using as the slash "/" before FUZZ is needed.
+
+https://www.asu.edu/

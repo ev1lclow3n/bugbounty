@@ -1,0 +1,4 @@
+python3 JSFinder.py -u https://www.jd.com/ -d -ou jd_url.txt -os jd_domain.txt
+
+
+gives js files, params, subs
