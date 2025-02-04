@@ -1,0 +1,20 @@
+#keywords1{
+    height: 160px;
+    overflow:scroll;
+}
+#results{
+    height:400px; 
+    overflow:scroll; 
+    padding:10px;
+}
+
+/* Default link color */
+ #results a {
+    color: red;
+    text-decoration: none;
+}
+
+/* Color when the link is clicked (visited) */
+#results a:visited {
+    color: yellow;
+}
